@@ -26,9 +26,19 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
+          <nav class="languages"> 
+          {% for lang in site.languages %}
+            {% if site.default_lang == lang %}
+              <a href="{{ site.url }}"><img src="{{ site.url }}/images/{{ lang }}-flag.png" /></a>
+            {% else %}
+              <a href="{{ site.url }}/{{ lang }}"><img src="{{ site.url }}/images/{{ lang }}-flag.png" /></a>
+            {% endif %}
+          {% endfor %}
+          </nav>
+
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
-	          <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
       </div>
