@@ -2,7 +2,7 @@
 layout: post
 title: Using local storage with React and Redux
 published: false
-language: pt_BR
+lang: pt_BR
 ---
 
 Geralmente nosssas applicações iniciam o `Redux's` store com um objeto vazio para mostrar que a aplicação não tem nenhum dado ao ser iniciada. No futuro quando usuários tiverem alguma interação ou quando a aplicação receber dados do back-end então o store irá manter esses dados. Essa é uma abordagem muito comum para usar `Redux` em um projeto `React`, ao menos em projetos no qual eu trabalhei até agora, mas as vezes nós necessitamos uma outra abordagem.
