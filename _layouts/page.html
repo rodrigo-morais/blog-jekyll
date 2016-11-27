@@ -3,15 +3,7 @@ layout: default
 ---
 
 <article class="page">
-  <nav class="languages"> 
-    {% for lang in site.languages %}
-      {% if site.default_lang == lang %}
-        <a href="{{ site.url }}{{ page.permalink }}"><img src="{{ site.url }}/images/{{ lang }}-flag.png" /></a>
-      {% else %}
-      <a href="{{ site.url }}/{{ lang }}{{ page.permalink }}"><img src="{{ site.url }}/images/{{ lang }}-flag.png" /></a>
-      {% endif %}
-    {% endfor %}
-  </nav>
+  {% include languages.html %}
 
   <h1>{{ page.title }}</h1>
 
