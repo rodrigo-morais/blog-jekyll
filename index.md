@@ -3,8 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% assign posts = (site.posts | where: "language", site.active_lang) %}
-  {% for post in posts  %}
+  {% for post in site.posts  %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
