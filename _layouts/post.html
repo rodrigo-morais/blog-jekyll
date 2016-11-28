@@ -3,7 +3,9 @@ layout: default
 ---
 
 <article class="post">
-  {% include languages.html %}
+  {% if post.translation %}
+    {% include languages.html %}
+  {% endif %}
 
   <h1>{{ page.title }}</h1>
 
