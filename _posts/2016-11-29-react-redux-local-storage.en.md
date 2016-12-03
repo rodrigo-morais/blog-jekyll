@@ -4,10 +4,13 @@ title: Using local storage with React and Redux
 published: true
 lang: en
 translation: true
+excerpt_separator: <!--more-->
 ---
 
 Usually our application starts *`Redux's`* store with an empty object to show that the application doesn't have any data when it starts. In the future when users have some interaction or when the application gets some data from the back-end so the store will keep these data. It is the most commom way to use *`Redux`* in a *`React`* project, at least in the projects which I worked til now, but sometimes we need another approach.
 To create a store with *`Redux`* we have to use a function called *`createStore`* which receives our *`reducers`* as parameters and should be imported from *`Redux`*.
+
+<!--more-->
 
 Ok, first we can use as an example a *`reducer`* for a TODO application. Probably we have a file called *`reducers.js`* to create it.
 

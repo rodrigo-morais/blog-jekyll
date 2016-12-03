@@ -58,6 +58,9 @@ baseurl: ""
 
 permalink: /:title/
 
+# Excerpt
+excerpt_separator: <!--more-->
+
 # The release of Jekyll Now that you're using
 version: v3.3.1
 
@@ -90,6 +93,9 @@ parallel_localization: true
 About:
  en: About
  pt_BR: Sobre
+ReadMore:
+ en: Read More
+ pt_BR: Continue
 
 # Exclude these files from your production _site
 exclude:

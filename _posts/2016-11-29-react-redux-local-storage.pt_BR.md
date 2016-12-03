@@ -10,6 +10,8 @@ Geralmente nosssas applicações iniciam o *`Redux's`* store com um objeto vazio
 
 Para criar um store com *`Redux`* nós temos que usar uma função chamada *`createStore`* qual nós importamos do *`Redux`* e passamos como parâmetro os nossos *`reducers`*.
 
+<!--more-->
+
 Ok, primeiro nós podemos usar como um exemplo um *`reducer`* para uma aplicação TODO. Provavelmente nós temos um arquivo chamado *`reducers.js`* para cria-lo.
 
 ```javascript

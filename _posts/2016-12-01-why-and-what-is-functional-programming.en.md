@@ -12,6 +12,7 @@ Hey folks!
 Today we will talk about functional paradigm or functional programming (*`FP`*).
 Functional paradigm is a different approach to work with software development which the majority of software engineers are accustomed. Probably you as the majority of developers are working or have worked with Imperative paradigm and / or Object Oriented (*`OO`*) paradigm. So Functional paradigm has some different ideas to solve the same problems which Imperative and Object Oriented solve too, and as everything has pros and cons to be evaluated.
 
+<!--more-->
 
 In these last years I was using a little of functional approaches in my code as osmosis because it was making my code better and simpler than *`OO`*. In majority of the time I knew the implementation, but I didn’t know about the meaning of what I was using and the theoretical benefits. I mean that I could see the benefits in my code, but I did know what it really was. In other words it was just a perception.
 In this year I started to work in a project where we were using a lot of functional techniques together with *`OO`*, and working with very smart folks which know a lot about *`FP`*. It showed me how important to deepen my knowledge in *`FP`*.

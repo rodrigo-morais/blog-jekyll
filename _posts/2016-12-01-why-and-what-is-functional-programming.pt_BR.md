@@ -12,6 +12,7 @@ Fala pessoal!
 Hoje vamos falar um pouco de paradigma e programaçāo funcional (*`FP`*).
 Paradigma funcional é uma abordagem diferente de trabalhar com desenvolvimento de software do qual a maioria dos desenvolvedores estāo acostumados. Provavelmente você como a maioria dos desenvolvedores esta trabalhando ou trabalhou com os paradigmas Imperativo e / ou Orientado a Objeto (*`OO`*). Entāo o paradigma funcional tem algumas diferentes ideias para resolver o mesmos problemas quais imperativo e orientaçāo a objeto resolvem também, e como tudo tem prós e contras para serem avaliados.
 
+<!--more-->
 
 Nesses últimos anos eu estava usando um pouco de abordagem funcional no meu código por osmose, porque isso fazia meu código melhor e simple que *`OO`*. Na maioria do tempo eu sabia a implementaçāo, mas eu nāo sabia sobre o significado do que eu estava usando e os benefícios teóricos. Eu quero dizer que eu podia ver os benefícios no meu código, mas eu nāo sabia quais eles realmente eram. Em outras palavras isso era apenas uma percepçāo.
 Este ano eu comecei a trabalhar em um projeto onde nós estávamos usando bastante técnicas funcionais junto com *`OO`*, e trabalhando com pessoas bastante inteligentes que sabiam bastante de programaçāo funcional. Isso me mostrou que era importante aprofundar o conhecimento em *`FP`*.
