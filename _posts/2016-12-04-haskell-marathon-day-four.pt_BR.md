@@ -18,6 +18,7 @@ Hoje vamos falar um pouco mais sobre listas, mas nós vamos dar uma olhada tamb�
 Nos dias dois e três nós vimos como criar e usar listas, hoje vamos continuar falando de outra forma de usar listas chamado list comprehension.
 List comprehensions são o caminho para transformar, combinar e filtrar listas. Isso é similar ao conceito de set comprehension na matemática, mas nós não prestaremos atenção nisso.
 Vamos iniciar dizendo que queremos gerar uma lista com os valores de 1 até 10 todos multiplicados por 2. Com list comprehension nós podemos fazer desta forma:
+<!--more-->
 ```haskell
 [ x*2 | x <- [1..10]]
 [2,4,6,8,10,12,14,16,18,20]

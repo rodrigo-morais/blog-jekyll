@@ -13,6 +13,7 @@ Today is my second day in *`Haskell’s`* marathon and we will talk about condit
 
 In *`Haskell`* as other languages we can use conditionals to produce more interesting functions. One the most famous conditional is *`IF`* which we can test values and return new values following this test. The biggest difference between *`Haskell`* and other languages is that *`Haskell`* forbids us that use *`IF`* without *`ELSE`*. It happens because in *`Haskell`* all functions have to have a return and if we have an *`IF`* clause without *`ELSE`* we can doesn’t have any return in a function.
 Let’s take a look in some examples using *`IF`* clause:
+<!--more-->
 ```haskell
 let biggerThanTen x = if x > 10 then "BIGGER" else "SMALLER"
 biggerThanTen 5

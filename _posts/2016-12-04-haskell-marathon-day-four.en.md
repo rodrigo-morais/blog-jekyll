@@ -18,6 +18,7 @@ Today we will talk a little bit more about lists, but we will take a look in tup
 In the days two and three we saw how create and use lists, today we will talk about another way to use lists called list comprehension.
 List comprehensions are the way to transform, filter and combine lists. It is similar to the mathematical concept of set comprehensions, but we are won’t pay attention to it.
 Let’s start saying that we want generate a list of values from 1 to 10 and multiply per 2. With list comprehension we can do in this way:
+<!--more-->
 ```haskell
 [ x*2 | x <- [1..10]]
 [2,4,6,8,10,12,14,16,18,20]

@@ -10,7 +10,7 @@ Fala pessoal!
 
 Vamos continuar dando uma olhada em listas?
 Ontem nós vimos como concatenar e obter elementos de listas. Hoje vamos ver outras funcionalidades que *`Haskell`* prove para listas.
-
+<!--more-->
 <br />
 
 **Listas aninhadas**

@@ -11,7 +11,7 @@ Hey folks!
 
 Let’s continue taking a look in lists?  
 Yesterday we took a look in how concatenate and get element from a list. Today we will see other feature which *`Haskell`* provides to his lists.
-
+<!--more-->
 <br />
 
 **Nested lists**
