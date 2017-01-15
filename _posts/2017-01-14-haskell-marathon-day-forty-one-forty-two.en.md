@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Haskell’s marathon - Day Forty to Forty One
+title: Haskell’s marathon - Day Forty One to Forty Two
 published: true
 lang: en
 translation: true

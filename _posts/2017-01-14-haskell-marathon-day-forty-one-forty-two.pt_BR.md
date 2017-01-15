@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maratona de Haskell - Quadragésimo à Quadragésimo Primeiro Dia
+title: Maratona de Haskell - Quadragésimo Primeiro à Quadragésimo Segundo Dia
 published: true
 lang: pt_BR
 translation: true
