@@ -3,7 +3,7 @@ layout: post
 title: Haskell’s marathon - Day Forty Six to Forty Seven
 published: true
 lang: en
-translation: true
+translation: false
 ---
 
 Hey folks!
