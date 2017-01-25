@@ -6,9 +6,11 @@ lang: en
 translation: false
 ---
 
-Hey folks!
+Hey folks!!
 
 Last post we saw how create *`records`* in *`Haskell`*. Today let’s see how to work with *`Type Synonyms`*.
+
+<br />
 
 **What is *`Type Synonyms`***
 
@@ -28,6 +30,8 @@ test :: OurString
 ```
 In the end the keyword *`type`* just gives a new name for a type which already exist.  
 We can use *`Type Synonyms`* to do our code more meaningful when necessary.
+
+<br />
 
 **Phonebook**
 
