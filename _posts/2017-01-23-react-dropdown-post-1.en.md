@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React - Creating a Dropdown component - Post 1
+title: React - Creating a Dropdown component - Part 1
 published: true
 lang: en
 translation: false
